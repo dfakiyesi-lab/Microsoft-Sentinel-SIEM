@@ -58,27 +58,14 @@ To deploy and configure **Microsoft Sentinel** in the Azure cloud environment fo
 
 ## 📸 Screenshots
 
-Include **4–6 professional screenshots** that demonstrate deployment, detection, and response:
+1. **Microsoft Sentinel workspace in Azure** <img width="2545" height="1490" alt="Screenshot 2025-10-19 001244" src="https://github.com/user-attachments/assets/31233b3c-df76-4e3f-92f5-8acd7c591008" />
 
-| Screenshot | Description |
-|-------------|--------------|
-| ![Sentinel Overview](./images/sentinel-overview.png) | Microsoft Sentinel workspace in Azure |
-| ![Log Analytics Workspace](./images/log-analytics.png) | Linked Log Analytics workspace |
-| ![KQL Analytics Rule](./images/kql-rule.png) | Custom KQL rule for failed login detection |
-| ![Incident Investigation Graph](./images/incident-graph.png) | Sentinel incident investigation view |
-| ![Logic App Automation](./images/logic-app.png) | Automated remediation playbook |
-| ![UEBA Dashboard](./images/ueba-dashboard.png) | Behavior-based threat detection dashboard |
 
-💡 *Ensure screenshots hide sensitive data such as usernames, IPs, or tenant IDs.*
+2. **Custom KQL rule for failed login detection**  <img width="2539" height="1391" alt="Screenshot 2025-10-19 002014" src="https://github.com/user-attachments/assets/b416b0dd-f830-4e4a-8477-ea7c14e54d79" />
 
----
+3. **Sentinel incident investigation view**  <img width="2543" height="980" alt="Screenshot 2025-10-19 112520" src="https://github.com/user-attachments/assets/66f5dd7b-5f95-4dfb-80e5-c43debf858c6" />
 
-## 🔒 Security & Operational Highlights
-
-- Established a **centralized SIEM environment** in Azure for continuous monitoring.  
-- Designed and implemented **custom KQL analytics rules** to detect targeted threats.  
-- Automated incident response using **Azure Logic Apps** for faster remediation.  
-- Strengthened cloud security posture through **Defender for Cloud integration**.
+4. **Closing tickets** <img width="2553" height="1288" alt="Screenshot 2025-10-19 121047" src="https://github.com/user-attachments/assets/1d893c8d-f85c-4a43-9660-bddd90eab5b4" />
 
 ---
 
@@ -88,12 +75,3 @@ Include **4–6 professional screenshots** that demonstrate deployment, detectio
 - Learned to **detect, investigate, and respond** to incidents using Sentinel.  
 - Improved skills in **KQL scripting**, **log correlation**, and **incident automation**.  
 - Built a scalable, cloud-based framework for enterprise-grade threat monitoring.
-
----
-
-## 🚀 Next Steps (Optional Enhancements)
-
-- Integrate Sentinel with **external threat intelligence feeds** (MSTICPy, AlienVault OTX).  
-- Automate **report generation** for recurring security events.  
-- Implement **SOC-style dashboards** using custom workbooks.  
-- Combine Sentinel with **Power BI** for visualization and reporting.
