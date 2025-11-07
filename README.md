@@ -1,11 +1,11 @@
 # 🛰️ SIEM Implementation in Azure Cloud – Microsoft Sentinel
 
-## 🎯 Objective
+## Objective
 To deploy and configure **Microsoft Sentinel** in the Azure cloud environment for real-time **threat detection**, **incident analysis**, and **automated response**, gaining hands-on experience with SIEM operations and KQL (Kusto Query Language).
 
 ---
 
-## 🧰 Tools & Technologies Used
+## Tools & Technologies Used
 - **Microsoft Sentinel**
 - **Azure Log Analytics Workspace**
 - **Azure Security Center**
@@ -15,7 +15,7 @@ To deploy and configure **Microsoft Sentinel** in the Azure cloud environment fo
 
 ---
 
-## ⚙️ Steps Performed
+## Steps Performed
 
 1. **Deployed Microsoft Sentinel**
    - Created a **Log Analytics Workspace** in Azure.
@@ -69,7 +69,7 @@ To deploy and configure **Microsoft Sentinel** in the Azure cloud environment fo
 
 ---
 
-## 🧩 Key Takeaways
+## Key Takeaways
 
 - Gained practical, hands-on experience in **SIEM deployment and management**.  
 - Learned to **detect, investigate, and respond** to incidents using Sentinel.  
